@@ -8,6 +8,7 @@
   },
   "dependencies": {
     "@adiwajshing/baileys": "^3.5.2",
+"amethyste-api": "^1.1.5",
     "async": "^2.4.1",
     "awesome-phonenumber": "^2.48.0",
     "axios": "^0.21.1",
