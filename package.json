@@ -20,6 +20,7 @@
     "dotenv": "^8.2.0",
     "emoji-api": "^1.0.2",
     "fb-video-downloader": "^1.0.3",
+"ffmpeg": "^0.0.4",
     "file-type": "^16.3.0",
     "fluent-ffmpeg": "^2.1.2",
     "g-i-s": "^2.1.6",
